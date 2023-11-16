@@ -4,7 +4,7 @@
 box-sizing: border-box;
 outline: 0;
 }
-
+/* container */
 .container{
     width: 100vw;
     height: 100vh;
@@ -59,7 +59,7 @@ gap:5px;
  align-self: center;
 
 }
-
+/* left section */
 .left-section{
     width: 45%;
     display: flex;
@@ -91,7 +91,7 @@ align-self: center;
     align-items: center;
 }
 
-
+/* right section */
 .right-section{
     width: 55%;
     display: flex;
